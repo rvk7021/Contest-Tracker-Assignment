@@ -1,3 +1,5 @@
+[![Watch the video](https://img.youtube.com/vi/o-lUxO-FxX4/hqdefault.jpg)](https://www.youtube.com/watch?v=o-lUxO-FxX4)
+
 # Codebit – Online Coding Platform
 
 Codebit is a scalable online coding platform designed to help developers practice coding problems, track their progress, and engage with a community of like-minded learners. It integrates a compiler, problem-tracking system, and contest tracking to enhance the learning experience.
